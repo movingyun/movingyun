@@ -1,9 +1,5 @@
 ## 유동윤 Dong-Yun You (Lucas)
 
----
-
-
-
 ### 👨‍💼 About Lucas
 
 ---
