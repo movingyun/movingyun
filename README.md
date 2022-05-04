@@ -6,9 +6,9 @@
 
 ---
 
-* 2015.03 - 2019.02 : 아주대학교 e-Business학과
-* 2019.03 ~ 2021.06 : 군대
-* 2022.01 ~ : Samsung Software Academy For Youth(SSAFY) 7기
+* 2015.03 - 2019.02 : Ajou Univ. e-Business학과
+* 2019.03 ~ 2021.06 : Military Service(Reserve Officers’ Training Corps)
+* 2022.01 ~ : Samsung Software Academy For Youth(SSAFY) 7th
 
 
 ### 👀 Interest
@@ -24,7 +24,13 @@
 
 ---
 
-* Programming Language (Java / Python)
-* Web Programming (JSP / Servlet)
+* Programming Language (Java / Python / Java Script)
+* Web Programming (Spring Boot / Vue.js)
 * TypeScript
 
+### 📗 Certificate
+
+---
+* Big Data Analyst (2021.12.31)
+* Advanced Data Analytics Semi-Professional (2021.04.09)
+* SQL Developer (2021.06.25)
