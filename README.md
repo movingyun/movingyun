@@ -5,7 +5,7 @@
 ---
 
 * 2015.03 - 2019.02 : 아주대학교 e-Business학과
-* 2019.03 ~ 2021.06 : 학군장교 군 복무
+* 2019.03 ~ 2021.06 : 군대
 * 2022.01 ~ : Samsung Software Academy For Youth(SSAFY) 7기
 
 
