@@ -1,5 +1,7 @@
 ## 유동윤 Dong-Yun You (Lucas)
 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydy1107)](https://solved.ac/ydy1107)
+
 ### 👨‍💼 About Lucas
 
 ---
@@ -26,4 +28,3 @@
 * Web Programming (JSP / Servlet)
 * TypeScript
 
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/ydy1107)
