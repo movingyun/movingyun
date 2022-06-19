@@ -31,6 +31,7 @@
 ### 📗 Certificate
 
 ---
-* Big Data Analyst (2021.12.31)
+* 정보처리기사 (2022.06.17)
+* 빅데이터 분석기사 (2021.12.31)
 * Advanced Data Analytics Semi-Professional (2021.04.09)
 * SQL Developer (2021.06.25)
