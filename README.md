@@ -6,7 +6,7 @@
 
 ---
 
-* 2015.03 - 2019.02 : 0000 Univ. e-Business학과
+* 2015.03 - 2019.02 : Ajou Univ. e-Business학과
 * 2019.03 ~ 2021.06 : Military Service(Reserve Officers’ Training Corps)
 * 2022.01 ~ : Samsung Software Academy For Youth(SSAFY) 7th
 
